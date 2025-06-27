@@ -1,0 +1,8 @@
+#string manipulation and code intelligence (/n)
+#print('Hello World')
+#print('Hello World')
+#print('Hello World')
+print('Hello World!\nHello World!\nHello World!')
+print('Hello' + 'Rogers')
+print('Hello' + ' Rogers')
+print('Hello' + ' '+'Rogers')
